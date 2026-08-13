@@ -1,0 +1,9 @@
+assumption,choice,justification
+Risk-free rate,0%,A simple disclosed assumption
+Rebalancing,Monthly,First available live date of each month
+Equity and combined window,252 observations,About one equity trading year
+Crypto window,365 observations,One crypto calendar year
+Transaction cost,10 bps per one-way turnover,Applied on rebalance dates
+No-news treatment,Neutral zero,Keeps a complete equal-weight ticker panel
+Sentiment lag,One equity trading day,Weekend and Monday news first becomes usable on Tuesday
+Portfolio constraints,Long-only and 25% maximum,Limits concentration

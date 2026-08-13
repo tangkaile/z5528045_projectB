@@ -1,0 +1,3 @@
+fund,family,method,first_live_date,last_live_date,annual_return,annual_volatility,sharpe_ratio,maximum_drawdown,final_growth_of_1,observations,periods_per_year,estimation_window,rebalance_frequency,risk_free_rate,cost_bps,average_turnover
+Equity Coverage-Aware Sentiment,Equity,Coverage-Aware Sentiment,2021-01-04,2023-12-29,0.037560229428901915,0.12628159847573742,0.35513404649669333,-0.15216842297027255,1.1164758020612333,753,252,252,monthly,0.0,10.0,0.236306337057252
+Equity Minimum Variance,Equity,Minimum Variance,2021-01-04,2023-12-29,0.053690106957096306,0.12562227368567125,0.4791328437021747,-0.15345854898747457,1.1691448361188577,753,252,252,monthly,0.0,10.0,0.1261963126430456
